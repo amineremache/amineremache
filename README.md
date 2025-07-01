@@ -1,4 +1,4 @@
-## Hi there 👋
+## Amine Remache
 
 <!--
 **amineremache/amineremache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Just a nerd trying to enjoy his free time building useful things while having fun.
+
+What you should know about me:
+- I work as a software engineer II at Amazon Web Services (AWS)
+- I have a podcast with two friends called [WledHorma](https://www.youtube.com/@WledHormaTalks?sub_confirmation=1) (you should follow us!)
+- Huge football fan, attended the 2022 WC final (Messi ❤️) 
+- Hardware/Computer vision enthusiast, I try to learn as much as I can during my free time (feel free to use any of my public projects)
